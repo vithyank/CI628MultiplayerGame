@@ -1,0 +1,3 @@
+C:/Users/vithy/CI628CWK/build/CMakeFiles/MyGame.dir
+C:/Users/vithy/CI628CWK/build/CMakeFiles/ALL_BUILD.dir
+C:/Users/vithy/CI628CWK/build/CMakeFiles/ZERO_CHECK.dir
